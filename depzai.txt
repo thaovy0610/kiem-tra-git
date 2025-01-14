@@ -1,3 +1,3 @@
-Line 1 cho git 
+Practice again 1
 bo may la conflict-1, tao phai o main
 Line 2 cho git 
